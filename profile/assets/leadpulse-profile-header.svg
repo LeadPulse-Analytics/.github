@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">LeadPulse Analytics</title>
+<desc id="desc">A refined dark brand banner for digital activation and revenue operations.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0c1020"/>
+    <stop offset=".57" stop-color="#17152b"/>
+    <stop offset="1" stop-color="#2b111f"/>
+  </linearGradient>
+  <linearGradient id="brand" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0" stop-color="#6d28d9"/>
+    <stop offset=".52" stop-color="#a855f7"/>
+    <stop offset="1" stop-color="#ff3e57"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#fff" stroke-opacity=".05" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#ff3e57" stop-opacity=".19"/>
+    <stop offset="1" stop-color="#ff3e57" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<ellipse cx="1000" cy="150" rx="255" ry="190" fill="url(#glow)"/>
+<path d="M70 55V245" stroke="url(#brand)" stroke-width="5" stroke-linecap="round"/>
+<text x="104" y="128" fill="#fff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="760" letter-spacing="1.8">LEADPULSE</text>
+<text x="108" y="159" fill="#c3b5ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650" letter-spacing="8">ANALYTICS</text>
+<path d="M107 184H420" stroke="url(#brand)" stroke-opacity=".8" stroke-width="2"/>
+<text x="107" y="216" fill="#eeeaf7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".3">Ativação digital · Operações de receita</text>
+<text x="107" y="244" fill="#89889a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">PRODUCT SYSTEMS THAT CONNECT CUSTOMER JOURNEYS TO OPERATIONS</text>
+<g fill="none" stroke-linecap="round">
+  <path d="M711 151H827L882 95H1020" stroke="#a78bfa" stroke-opacity=".62" stroke-width="2"/>
+  <path d="M827 151L889 216H1085" stroke="#fb7185" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M882 95L951 151H1132" stroke="#c4b5fd" stroke-opacity=".42" stroke-width="1.5"/>
+  <path d="M889 216L951 151" stroke="#fda4af" stroke-opacity=".42" stroke-width="1.5"/>
+  <circle cx="827" cy="151" r="66" stroke="#b8a8ff" stroke-opacity=".2"/>
+  <circle cx="827" cy="151" r="45" stroke="#b8a8ff" stroke-opacity=".22"/>
+  <circle cx="951" cy="151" r="34" stroke="#ff7483" stroke-opacity=".26"/>
+</g>
+<g>
+  <circle cx="711" cy="151" r="5" fill="#c4b5fd"/>
+  <circle cx="827" cy="151" r="8" fill="#a78bfa"/>
+  <circle cx="882" cy="95" r="5" fill="#d8b4fe"/>
+  <circle cx="889" cy="216" r="5" fill="#fb7185"/>
+  <circle cx="951" cy="151" r="7" fill="#ff6373"/>
+  <circle cx="1020" cy="95" r="4" fill="#c4b5fd"/>
+  <circle cx="1085" cy="216" r="4" fill="#fb7185"/>
+  <circle cx="1132" cy="151" r="4" fill="#c4b5fd"/>
+</g>
+<text x="827" y="155" fill="#f8f7ff" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">ACTIVATE</text>
+<text x="1030" y="76" fill="#918da3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="2">STRATEGY / PRODUCT / EXECUTION</text>
+</svg>
